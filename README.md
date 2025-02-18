@@ -20,8 +20,8 @@ I will follow a structured approach:
 
 
 ## 🚀 Tools & Resources  
-- **MySQL Server** (via XAMPP)  
-- **DBMS Software**: MySQL Workbench / phpMyAdmin  
+- **MySQL Server** (via MySQL Workbench)  
+- **DBMS Software**: MySQL Workbench  
 - **Reference**: [MySQL Docs](https://dev.mysql.com/doc/)   
 
 ---
